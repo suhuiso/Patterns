@@ -1,6 +1,6 @@
 package patterns.decorator.starBuzz;
 
-public class Test {
+public class CoffeeTest {
 
 		public static void main(String[] args) {
 			Beverage beverage1 = new Decaf();
