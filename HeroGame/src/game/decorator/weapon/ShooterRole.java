@@ -3,8 +3,8 @@ package game.decorator.weapon;
 public class ShooterRole extends Role{
 
 		public ShooterRole() {
-			name = "…‰ ÷";
-			weapon = "«π";
+			name = "shooter";
+			weapon = "gun";
 		}
 		
 		public String getWeapon() {

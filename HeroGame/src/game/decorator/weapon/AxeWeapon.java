@@ -11,7 +11,7 @@ public class AxeWeapon extends WeaponDecorator {
 	@Override
 	public String getWeapon() {
 		// TODO Auto-generated method stub
-		return role.getWeapon() + ", ¸«Í·";
+		return role.getWeapon() + ", axe";
 	}
 
 	@Override
