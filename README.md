@@ -1,7 +1,8 @@
-#Design Patterns
-##Author
+# Design Patterns
+## Author
 ---
 SU Hui
-##Description
+
+## Description
 ---
 All codes for design patterns
