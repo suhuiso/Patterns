@@ -1,12 +1,6 @@
-Design Patterns
-===
+#Design Patterns
+##Author
+SU Hui
 
-Author
--------
-
-*	SU Hui
-
-Description
------------
-
+##Description
 All codes for design patterns

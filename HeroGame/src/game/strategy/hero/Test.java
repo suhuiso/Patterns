@@ -1,6 +1,6 @@
 package game.strategy.hero;
 
-public class HeroTest {
+public class Test {
 	
 	public static void main(String[] args){
 		

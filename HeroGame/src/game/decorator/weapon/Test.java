@@ -1,6 +1,6 @@
 package game.decorator.weapon;
 
-public class WeaponTest {
+public class Test {
 
 	public static void main(String[] args) {
 		Role shooter = new ShooterRole();

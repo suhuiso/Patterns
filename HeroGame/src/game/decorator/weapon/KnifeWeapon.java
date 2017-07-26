@@ -10,16 +10,13 @@ public class KnifeWeapon extends WeaponDecorator {
 
 	@Override
 	public String getWeapon() {
-		// TODO Auto-generated method stub
 		return role.getWeapon() + ", knife";
 	}
 
 	@Override
 	public int attackPower() {
-		// TODO Auto-generated method stub
 		return role.attackPower() + 200;
 	}
 
-	
-
 }
+

@@ -7,10 +7,6 @@ public class ShooterRole extends Role{
 			weapon = "gun";
 		}
 		
-		public String getWeapon() {
-			return weapon;
-			
-		}
 
 		@Override
 		public int attackPower() {
@@ -19,3 +15,4 @@ public class ShooterRole extends Role{
 		}
 		
 }
+
